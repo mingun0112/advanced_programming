@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+konlpy
+neo4j
+networkx
+matplotlib
+pandas
